@@ -23,7 +23,7 @@ A few of you asked me what you should bring to the workshop and what to prepare.
 4) Make sure you can deploy apps to your device by opening xCode and creating a new AR Project
 File > New > Project
 
-![New Project](001-project-new.png?raw=true "New Project")
+![New Project](001-create-project.png?raw=true "New Project")
 
 Select Augmented Reality Project and give it a name as seen below. For the organization identifier, use `com.<your-last-name>` this will ensure you have a unique identifier that doesn’t conflict with existing apps on your device.
 
