@@ -4,14 +4,14 @@
 
 Hi Everyone,
 
-Thank you for signing up to the workshop! I can’t wait to see you all in just 2 weeks time.
+Thank you for signing up to the workshop! I can’t wait to see you all!
 
 A few of you asked me what you should bring to the workshop and what to prepare. So here it goes.
 
 ## Things to Bring
 
 1) Mac laptop
-2) iPhone 6S or above or iPad with A9 chip or above
+2) iPhone 6S or above or iPad with A9 chip or above (you need a real device, you can't use the simulator)
 3) USB-to-Lightining cable (apple phone cable)
 4) Snacks to share with others 😉
 
@@ -23,14 +23,15 @@ A few of you asked me what you should bring to the workshop and what to prepare.
 4) Make sure you can deploy apps to your device by opening xCode and creating a new AR Project
 File > New > Project
 
+![New Project](001-project-new.png?raw=true "New Project")
 
 Select Augmented Reality Project and give it a name as seen below. For the organization identifier, use `com.<your-last-name>` this will ensure you have a unique identifier that doesn’t conflict with existing apps on your device.
 
-
+![Project Settings](002-project-settings.png?raw=true "Project Settings")
 
 Plugin your device via a USB cable (make sure to mark the computer as trusted if asked). With your phone unlocked, press the play button on Xcode. 
 
-
+![Run Project](003-run-project.png?raw=true "Run Project")
 
 If you have done everything correctly, the app should now launch on your phone and ask permission to use your camera. After you grant permissions you should see a plane hovering infront of you.
 
