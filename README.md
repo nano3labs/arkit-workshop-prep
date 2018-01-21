@@ -8,14 +8,14 @@ Thank you for signing up to the workshop! I can’t wait to see you all in just 
 
 A few of you asked me what you should bring to the workshop and what to prepare. So here it goes.
 
-Things to Bring:
+## Things to Bring
 
 1) Mac laptop
 2) iPhone 6S or above or iPad with A9 chip or above
 3) USB-to-Lightining cable (apple phone cable)
 4) Snacks to share with others 😉
 
-How to Prepare:
+## How to Prepare
 
 1) Make sure you have Xcode up and running with the latest version (currently 9.2)
 2) Make sure you have macOS High Sierra
@@ -42,8 +42,4 @@ Please make sure you get to this stage, it will be our starting point for the wo
 
 Email me if you have any questions michael@nano3labs.com.
 
-See you on January 31st.
-
-Cheers,
-
-Michael Yagudaev
+See you on January 31st, 2018.
