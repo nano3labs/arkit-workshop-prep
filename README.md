@@ -19,7 +19,7 @@ A few of you asked me what you should bring to the workshop and what to prepare.
 
 1) Make sure you have Xcode up and running with the latest version (currently 9.2)
 2) Make sure you have macOS High Sierra
-3) Signup for a FREE developer account with Apple https://developer.apple.com/programs/enroll/
+3) Signup for a FREE developer account with Apple https://9to5mac.com/2016/03/27/how-to-create-free-apple-developer-account-sideload-apps/
 4) Make sure you can deploy apps to your device by opening xCode and creating a new AR Project
 File > New > Project
 
